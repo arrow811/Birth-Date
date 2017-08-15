@@ -1,0 +1,2 @@
+A Python utility to know the day of the weak a person is born. 
+Program takes Date of Birth as the input and calculates the Day of the weak the person is born on. To deliver the purpose it uses a special algorithm that is carefully designed that also take into consideration of the leap years as well.
